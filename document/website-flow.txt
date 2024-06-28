@@ -1,0 +1,43 @@
+Website Flow:
+
+1. User Accesses the Site:
+   - User visits the website.
+   - If registered, user logs in. If not, user registers first.
+
+2. Menu Options:
+   - Home: Navigate to the home page.
+   - Shifting Service: Request shifting services.
+   - House To Rent: View available rental houses.
+   - Add Property: Owners add properties for rent.
+   - Search By Location: Filter houses by location.
+
+3. Shifting Service:
+   - Scenario 1: User wants to shift to a new location.
+     - User provides details about current location, destination, required services (packing, transportation, etc.), and preferred date.
+     - Service providers respond with quotes and availability.
+
+4. House To Rent:
+   - Scenario 2: User wants to rent a house.
+     - User browses listings of available rental houses.
+     - Listings include details like title, description, price, amenities, contact information.
+     - User can filter and sort listings based on preferences (price range, number of bedrooms, etc.).
+     - User can save favorite listings and contact owners for inquiries or viewing appointments.
+
+5. Add Property:
+   - Scenario 3: Owner wants to add a property for rent.
+     - Owner provides property details (title, description, price, amenities, location, contact info).
+     - Owner uploads photos of the property.
+     - Owner verifies ownership (via document upload or verification process).
+     - Upon verification, property listing is published.
+
+6. Search By Location:
+   - Scenario 4: User wants to find houses in a specific location.
+     - User enters desired location (city, neighborhood) in the search bar.
+     - Search results display available houses in the specified location.
+     - User can further filter results based on additional criteria (price, amenities, etc.).
+
+7. Admin Dashboard:
+   - Scenario 5: Admin manages users and listings.
+     - Admin views user accounts, edits user details, and approves new registrations.
+     - Admin monitors and moderates property listings, approving or rejecting new listings and handling reported issues.
+     - Admin analyzes website analytics, tracks user activity, and generates reports.

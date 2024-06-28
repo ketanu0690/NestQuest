@@ -42,3 +42,4 @@ Rental House Finder is a web application designed to help users find rental hous
 ## How to Run the Application
 
 1. **Clone the Repository:**
+2. **Install the Required Dependencies**
