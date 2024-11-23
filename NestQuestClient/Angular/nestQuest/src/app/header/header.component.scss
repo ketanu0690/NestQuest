@@ -1,0 +1,20 @@
+.header-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .header-links {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .spacer {
+    flex: 1 1 auto;
+  }
+  
